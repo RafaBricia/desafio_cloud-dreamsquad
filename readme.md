@@ -107,3 +107,6 @@ Após aplicar, o Terraform mostrará os outputs, como:
  - URL do bucket frontend para acessar o site hospedado no S3
 
  - Nome da Lambda, buckets etc.
+
+
+Link para meu repositório: <a href='https://github.com/RafaBricia/desafio_cloud-dreamsquad'>Clique aqui!</a>
