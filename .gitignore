@@ -1,0 +1,23 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+__pycache__/
+*.pyc
+
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfplan
+
+*.zip
+
+*.log
+
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
