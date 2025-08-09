@@ -108,5 +108,6 @@ Após aplicar, o Terraform mostrará os outputs, como:
 
  - Nome da Lambda, buckets etc.
 
+<br>
 
-Link para meu repositório: <a href='https://github.com/RafaBricia/desafio_cloud-dreamsquad'>Clique aqui!</a>
+<b>Link para meu repositório: <a href='https://github.com/RafaBricia/desafio_cloud-dreamsquad'>Clique aqui!</a></b>
