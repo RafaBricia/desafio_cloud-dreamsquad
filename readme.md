@@ -63,6 +63,8 @@ export AWS_SECRET_ACCESS_KEY="seu_secret_key"
 export AWS_DEFAULT_REGION="us-east-1"
 ```
 
+---
+
 ## Passo 2 — Inicializar Terraform
 
 Entre na pasta terraform e rode:
@@ -72,6 +74,9 @@ terraform init
 ```
 
 Isso baixa os providers e configura o backend do Terraform.
+
+---
+
 
 ## Passo 3 — Aplicar as configurações (criar recursos)
 
@@ -91,7 +96,10 @@ Confirme com yes quando solicitado. Isso irá provisionar na AWS:
 
  - Função Lambda e regra CloudWatch para upload diário
 
+---
+
 ## Passo 4 — Verificar outputs
+
 Após aplicar, o Terraform mostrará os outputs, como:
 
  - URL do ALB para backend
